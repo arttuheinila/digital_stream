@@ -1,4 +1,4 @@
-""" A screensaver in the style of The Matrix Movies visuals """
+""" A screensaver in the style of The Matrix Movies visuals from Al Sweigarts fantastic The big book of Small Python Projects"""
 
 import random, shutil, sys, time
 
